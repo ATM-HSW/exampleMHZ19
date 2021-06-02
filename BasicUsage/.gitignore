@@ -1,0 +1,10 @@
+*.uvoptx
+*.uvprojx
+*.uvguix*
+.mbed
+*.bak
+GettingStarted.html
+mbed_config.h
+BUILD/
+DebugConfig/
+EventRecorderStub.scvd

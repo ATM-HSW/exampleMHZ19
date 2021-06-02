@@ -1,0 +1,3 @@
+[submodule "BasicUsage/libMHZ19"]
+	path = BasicUsage/libMHZ19
+	url = git@github.com:ATM-HSW/libMHZ19.git
