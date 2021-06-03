@@ -8,4 +8,3 @@ mbed_config.h
 BUILD/
 DebugConfig/
 EventRecorderStub.scvd
-ThingSpeak/secrets.h
