@@ -10,3 +10,9 @@
 [submodule "ThingSpeak/libThingSpeak"]
 	path = ThingSpeak/libThingSpeak
 	url = git@github.com:ATM-HSW/libThingSpeak.git
+[submodule "RawCO2/libMHZ19"]
+	path = RawCO2/libMHZ19
+	url = git@github.com:ATM-HSW/libMHZ19.git
+[submodule "FilterUsage/libMHZ19"]
+	path = FilterUsage/libMHZ19
+	url = git@github.com:ATM-HSW/libMHZ19.git

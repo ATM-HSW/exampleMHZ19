@@ -1,0 +1,11 @@
+{
+  "target_overrides": {
+    "*": {
+    	"platform.minimal-printf-enable-floating-point": true,
+      "platform.stdio-baud-rate": 115200,
+      "platform.stdio-convert-newlines": true,
+      "platform.crash-capture-enabled": false,
+      "mbed-trace.enable": null
+    }
+  }
+}
