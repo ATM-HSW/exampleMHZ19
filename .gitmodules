@@ -3,13 +3,13 @@
 	url = git@github.com:ATM-HSW/libMHZ19.git
 [submodule "ThingSpeak/libMHZ19"]
 	path = ThingSpeak/libMHZ19
-	url = E:\\git\\exampleMHZ19\\ThingSpeak\\libMHZ19
+url=git@github.com:ATM-HSW/libMHZ19.git
 [submodule "ThingSpeak/libHttp"]
 	path = ThingSpeak/libHttp
-	url = E:\\git\\exampleMHZ19\\ThingSpeak\\libHttp
+url=git@github.com:ATM-HSW/libHttp.git
 [submodule "ThingSpeak/libThingSpeak"]
 	path = ThingSpeak/libThingSpeak
-	url = E:\\git\\exampleMHZ19\\ThingSpeak\\libThingSpeak
+url=git@github.com:ATM-HSW/libThingSpeak.git
 [submodule "RawCO2/libMHZ19"]
 	path = RawCO2/libMHZ19
 	url = git@github.com:ATM-HSW/libMHZ19.git
